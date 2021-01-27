@@ -65,14 +65,13 @@ Script ini di modifikasi sama saya sendiri MaslentGans.
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi MASLENT`08165466368) VIPUL
+* [`Donasi RIDHOBOT`08998839509) VIPUL
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](MAS LENT YT)
-* [`Instagram Admin`(https://instagram.com/_maslent11)
-* [`WhatsApp Admin `(https://wa.me/+628165466368)
+* [`Youtube Admin`](RIDHO MAULANA ABDI)
+*
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`(https://github.com/fdciabdul/termux-whatsapp-bot)
